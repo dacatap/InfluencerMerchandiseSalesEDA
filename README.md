@@ -24,7 +24,7 @@ Extracted from <b>[Kaggle](https://www.kaggle.com/datasets/adarsh0806/influencer
 
 ## Author
 
-Dariem Castro Tapia /
+Dariem Castro Tapia \
 <b>[LinkedIn](https://www.linkedin.com/in/castrotapiadariem/)</b>
 
 <b>[Kaggle dataset](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)</b> authored by <b>[Adarsh Anil Kumar](https://www.kaggle.com/adarsh0806)</b>
